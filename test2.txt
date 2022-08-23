@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+"test 2 text" 
+=======
+"this is test2" 
+>>>>>>> master
